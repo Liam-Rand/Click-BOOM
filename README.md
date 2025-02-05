@@ -46,7 +46,7 @@ This project is fully available in this repository!
   <img src="Screenshots/Screenshot_2560x1440_005.png" width="49%" />
 </p>
 <p float="left">
-  <img src="Screenshots/Screenshot_2560x1440_006.png" width="49%" />
+  <img src="Screenshots/Screenshot_2560x1440_006.jpg" width="49%" />
   <img src="Screenshots/Screenshot_2560x1440_007.png" width="49%" />
 </p>
 
