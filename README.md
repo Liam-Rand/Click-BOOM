@@ -64,19 +64,19 @@ This project is fully available in this repository!
 <br />
 
 <p float="left">
-  <img src="Screenshots/GameOptions.png" width="49%" />
-  <img src="Screenshots/Image Sequence_001_3840x2160.png" width="49%" />
+  <img src="Screenshots/Screenshot_2560x1440_001.png" width="49%" />
+  <img src="Screenshots/Screenshot_2560x1440_002.png" width="49%" />
 </p>
 <p float="left">
-  <img src="Screenshots/Image Sequence_008_3840x2160.png" width="49%" />
-  <img src="Screenshots/Image Sequence_011_3840x2160.png" width="49%" />
+  <img src="Screenshots/Screenshot_2560x1440_003.png" width="49%" />
+  <img src="Screenshots/Screenshot_2560x1440_008.png" width="49%" />
 </p>
 <p float="left">
-  <img src="Screenshots/Image Sequence_013_3840x2160.png" width="49%" />
-  <img src="Screenshots/Image Sequence_014_3840x2160.png" width="49%" />
+  <img src="Screenshots/Screenshot_2560x1440_009.png" width="49%" />
+  <img src="Screenshots/Screenshot_2560x1440_010.png" width="49%" />
 </p>
 <p align="center">
-  <img src="Screenshots/Image Sequence_016_3840x2160.png" width="49%" />
+  <img src="Screenshots/Screenshot_2560x1440_011.png" width="49%" />
 </p>
 
 <details open> 
