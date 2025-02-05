@@ -27,7 +27,7 @@ There are some additional elements that were a part of this project, such as bas
 
 <h2>⬇️ Completed Project Download</h2>
 This project is fully playable and available on my itch.io page! <br />
-It can be viewed and downloaded here: https://coba-platinum.itch.io/severalsnek
+It can be viewed and downloaded here: https://coba-platinum.itch.io/click-boom
 
 <br /><br />
 
