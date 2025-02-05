@@ -64,7 +64,7 @@ This project is fully available in this repository!
 <br />
 
 <p float="left">
-  <img src="Screenshots/Screenshot_2560x1440_001.png" width="49%" />
+  <img src="Screenshots/Screenshot_2560x1440_001.jpg" width="49%" />
   <img src="Screenshots/Screenshot_2560x1440_002.png" width="49%" />
 </p>
 <p float="left">
@@ -73,7 +73,7 @@ This project is fully available in this repository!
 </p>
 <p float="left">
   <img src="Screenshots/Screenshot_2560x1440_009.png" width="49%" />
-  <img src="Screenshots/Screenshot_2560x1440_010.png" width="49%" />
+  <img src="Screenshots/Screenshot_2560x1440_010.jpg" width="49%" />
 </p>
 <p align="center">
   <img src="Screenshots/Screenshot_2560x1440_011.png" width="49%" />
