@@ -8,20 +8,15 @@
 <summary><h2>🗒️ Project Description</h2></summary>
 
 <br />
-Several Snek! is a remake of the classic Snake games that I did as a fun project! Along with your snake, called a snek in this game, all of the classic rules apply! You can't hit yourself or you die! Eating apples will increase the length of your snek by one!  Along with these and depending on how you want to play, you can also enable/disable classic features such as map wrapping (where you go off one side of the map and appear on the opposite side) for a more or less challenging experience!
+Click-BOOM! is a game created as a fun project/learning experience involving the player strategically purchasing and igniting fireworks in order to get their score as high as possible with a limited number of clicks. Show off your skills of timely and limited ignitions and accuracy, buy multiple different unique fireworks (all with their own challenges), upgrade your abilities, and ignite the sky with a fireworks show that will be remembered for the rest of time!
 
-<br /><br />Along with the classic snake experience, more fun features have been added!
-
-<br /><br />This project was created to familiarize myself with a multiplayer-focused game development architecture within the Unity game engine.
+<br /><br />This project was created to familiarize myself with aspects of rapid prototyping and UI/UX development.
 Some aspects of this project include:
-  - Utilization of Unity's Lobby system and multiplayer services to allow games to be hosted and joined without the need to port forward.
-  - Client Authoritative networking
-  - Custom data handling and snycronization for the player characters over the network
-  - Networked player customization (color)
-  - Proper network error handling (i.e. host disconnect)
-  - Utilizing multiple scenes within a networked game
+  - Utilization of the concept of tweening (animation through code) in order to create a user-friendly and eye-catching interface while also minimizing performance impacts without relying on Unity's animation system.
+  - Gameplay balancing and complex progression system development
+  - Basic implementation of an online leaderboard API for keeping track of player scores
 
-There are some additional elements that were a part of this project, such as basic map generation, powerups, and different game-modes, but the multiplayer networking was the primary focus.
+There are some additional elements that were a part of this project, such as utilization of render textures to create a pixel perfect art-style, powerups, and basic multi-scene management within Unity.
 
 <br />
 
