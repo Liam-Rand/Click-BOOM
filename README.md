@@ -79,15 +79,15 @@ This project is fully available in this repository!
 
 - **How would you describe the process of creating and polishing the artifact?**
   
-I feel that creating and polishing this artifact was very enjoyable and challenging. Learning about the concept of tweening was a very interesting and rewarding experience, as there are many benefits to utilizing this concept within development of animated user interfaces. I feel the most challenging aspect of developing this project was testing and balancing the gameplay in order to ensure a good pace of progression throughout the game, as the game is designed to be played in one session with no way to save your project.
+I feel that creating and polishing this artifact was very enjoyable and challenging. Learning about the concept of tweening was a very interesting and rewarding experience, as there are many benefits to utilizing this concept within development of animated user interfaces. I feel the most challenging aspect of developing this project was testing and balancing the gameplay in order to ensure a good pace of progression throughout the game, as the game is designed to be played in one session with no way to save your project. As I learned more, this project definitely evolved and changed throughout development. Some gameplay elements were not as enjoyable once prototyped and tested, and therefore scrapped or changed to ensure both enjoyability and replayability within the game.
   
 - **What did you learn as you were creating it and improving it?**
 
-This project gave me a chance to learn the many systems and techniques that make a multiplayer game possible. I was able to gain knowledge with with different game-related multiplayer architectures, such as peer-to-peer, client-server, etc. and when their strengths and weaknesses for different play styles within a game. I was able to learn how clients communicate with the server, and vice versa, in order to sync the game state for all players, whether that be player locations, enemy locations, animations, player statistics, and more. Whilw working on this project, I had to completely rethink about how game logic clasically works within a singleplayer experience, as a lot of different implementations for one more than likely will not work for the other. I also gained experience with Unity's multiplayer tools, specifically netcode for game objects and their lobby system, in order to complete this project.
+I believe this project really gave me a great opportunity to refine my prototyping skills, allowing me to implement and test different gameplay systems in the most time-efficient way possible. This allowed me to test a lot more interesting gameplay elements, as large amounts of time were not wasted if a gameplay element ended up not fitting well within the final project and needing to be redeveloped or removed.
 
 - **What challenges did you face?**
 
-As mentioned in the previous section, majority of the challenges faced within the development of this game were related to having to completely rethink how the logic within a game should be implemented during development. Having to decide what information should be client-side vs server-side, what information should be only calculated on the clients, what information should be sent to/from the server, and more were all very challenging experiences in order to make a fully functional and optimized/effecient multiplayer game.
+As mentioned in the first section, majority of the challenges faced within the development of this game were related to balancing the gameplay so that the progression through purchasing new fireworks and upgrades feels logical and smooth throughout the entire game while also being replayable.
 
 - **How could this artifact be improved?**
 
