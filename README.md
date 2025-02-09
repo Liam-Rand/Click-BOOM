@@ -91,7 +91,7 @@ As mentioned in the first section, majority of the challenges faced within the d
 
 - **How could this artifact be improved?**
 
-There are many different aspects of this project that I feel could be improved, but if I were to work on the project again, my top priority would probably be to swith the networking from a client-authoritative to a server-authoritative model. I initially decided to develop with a client-authoritative model due to the lower amount of complexity when developming and implementing the networking logic for the game, but this eventually led to some unintended consequences, especially wth collision detection for the different player characters (the snakes). Switching to a server-authoritative model where the player movement and collision is all calculated on the server and then synced to the connected clients would essentially solve a lot of the issues that I ended up encountering during the course of developing this project!
+There are many different aspects of this project that I feel could be improved, but if I were to work on the project again, my top priority would probably be to overhaul the public leaderboard system to make it much more robust, especially if players attempt to play the game on multiple different devices/platforms with the same username/account. I believe I could also add some more gameplay systems, such as different game modes, to allow the user to try some different play-styles with similar/the same gameplay elements.
 </details> 
 
 <br />
