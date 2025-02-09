@@ -79,7 +79,7 @@ This project is fully available in this repository!
 
 - **How would you describe the process of creating and polishing the artifact?**
   
-I feel that creating and polishing this artifact was very enjoyable and challenging, as I had to learn a completely different game architecture to create a fun and engaging multiplayer experience. I started with a basic idea of what I wanted to do, which was a multiplayer version of the classic snake game, and began from there. I first created a singleplayer prototype of the game, allowing my to plan and develop the different game mechanics for the game, followed by implementing working multiplayer into the game. Though this is not the recommended method of creating a multiplayer game, as it takes a lot more work, it did allow me to get a full understanding of the differences between crafting a singleplayer and multiplayer experience from behind the scenes.
+I feel that creating and polishing this artifact was very enjoyable and challenging. Learning about the concept of tweening was a very interesting and rewarding experience, as there are many benefits to utilizing this concept within development of animated user interfaces. I feel the most challenging aspect of developing this project was testing and balancing the gameplay in order to ensure a good pace of progression throughout the game, as the game is designed to be played in one session with no way to save your project.
   
 - **What did you learn as you were creating it and improving it?**
 
